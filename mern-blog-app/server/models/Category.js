@@ -1,0 +1,1 @@
+// Mongoose Category model placeholder

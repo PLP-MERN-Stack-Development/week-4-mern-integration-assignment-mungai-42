@@ -1,0 +1,1 @@
+// Mongoose Post model placeholder
